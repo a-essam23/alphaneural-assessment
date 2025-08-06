@@ -1,0 +1,31 @@
+{
+  "name": "alphaneutral",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "@types/react": "^18.0.8",
+    "@types/react-dom": "^18.0.2",
+    "axios": "0.21.2",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a-essam23/alphaneutral-assessment.git"
+  },
+  "author": "AE",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/a-essam23/alphaneutral-assessment/issues"
+  },
+  "homepage": "https://github.com/a-essam23/alphaneutral-assessment#readme"
+}
