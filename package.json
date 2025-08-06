@@ -1,5 +1,5 @@
 {
-  "name": "alphaneutral",
+  "name": "alphaneural",
   "version": "1.0.0",
   "description": "",
   "dependencies": {
@@ -20,12 +20,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/a-essam23/alphaneutral-assessment.git"
+    "url": "git+https://github.com/a-essam23/alphaneural-assessment"
   },
   "author": "AE",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/a-essam23/alphaneutral-assessment/issues"
+    "url": "https://github.com/a-essam23/alphaneural-assessment/issues"
   },
-  "homepage": "https://github.com/a-essam23/alphaneutral-assessment#readme"
+  "homepage": "https://github.com/a-essam23/alphaneural-assessment#readme"
 }
